@@ -1,0 +1,87 @@
+{
+   "checksum": "0ac68ed0dbbb6e72c28a44782e3a80e4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13384628866691871",
+            "date_last_used": "13409776464311611",
+            "guid": "53680cb1-2788-45a0-9212-81d54e7d9313",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Área personal | EVA UPEC",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aulas-virtuales.upec.edu.ec/my/",
+            "visit_count": 208
+         }, {
+            "date_added": "13397153162654523",
+            "date_last_used": "13405522144347691",
+            "guid": "337dc4f2-96e7-4993-8c51-7a926273192a",
+            "id": "7",
+            "name": "Grok",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://grok.com/",
+            "visit_count": 5
+         }, {
+            "date_added": "13401292764327057",
+            "date_last_used": "13408726262330040",
+            "guid": "a60b7afd-d88a-4392-b062-1762663aa131",
+            "id": "8",
+            "name": "▷SCORN PC ESPAÑOL + Update v1.2.2.0 H1 | PiviGames",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pivigames.blog/scorn-pc-espanol/",
+            "visit_count": 13
+         }, {
+            "date_added": "13407634927548959",
+            "date_last_used": "13409101299970485",
+            "guid": "a6fba512-30a8-4536-9f52-bb1574447f0a",
+            "id": "9",
+            "name": "Descargar Scorn Torrent | GamesTorrents",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.gamestorrents.app/juegos-pc/scorn/",
+            "visit_count": 18
+         } ],
+         "date_added": "13409873780398041",
+         "date_last_used": "0",
+         "date_modified": "13407634927548959",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13409873780398041",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13409873780398041",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCKPjQASbAQAAEgAqGDNUV3VpeXkvQVNwSG9yWDZNWERDMGc9PUgDoAYHEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDU4OTQ2MTRhLWExOGQtNWIxNS1hNzdjLWM1MzFhYzk1MjEwNxgAIAAoADDapeqMjzM4harqjI8zQIWq6oyPM0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKtAQgHEqgBChxHOGxpWS9ObERxaEl0a3JBM1ZzbWNSR2JsaFE9EiQzMzdkYzRmMi05NmU3LTQ5OTMtOGM1MS03YTkyNjI3MzE5MmEYACAAKAAww4S0taAzONXp6oyPM0DV6eqMjzNKHFJzR1lSTTJmVnNvVWZxTzdMMTl5cVNmL2ZqZz1aHyIdvGNoS2JBdC9qODNRaTRBNWxvbHEwb3RRZmJVMD1lYvCetcI+AmAFEq0BCAkSqAEKHEYvN3dVcXEyWm1jeS8wc29XcExyd25RTDZNZz0SJGE2ZmJhNTEyLTMwYTgtNDUzNi05ZjUyLWJiMTU3NDQ0N2YwYRgAIAAoADC/porgrTM4xe7spKgzQMXu7KSoM0ocNFNXSDBqbU9ybGNwM3VpT25zR1Ywd01ZWVZBPVofIh3vUG4xb1NXd2NadlRwbGRQZmc3ZUJkYmVDbEg0PWXrr0hywj4CYAUSrAEIBhKnAQocNkZ0U3JnWU4yNC8zTzJpUHo1RWt1LzhCeU1FPRIkNTM2ODBjYjEtMjc4OC00NWEwLTkyMTItODFkNTRlN2Q5MzEzGAAgACgAMKLHg6KwMziw6eqMjzNAsOnqjI8zShxzMzdhTXlwVjczT21iWWp2bENrUDZqN0ROYlE9Wh4iHHhIUTZnenQxdnVaM0pVRmJXQVpBYlZZQ3d3bz1ldf8+4MI+AmAFEq0BCAgSqAEKHFgxUlJ5eStaL2pzS2dpYmthc1F0TUpNR0xHTT0SJGE2MGI3YWZkLWQ4OGEtNDM5Mi1iMDYyLTE3NjI2NjNhYTEzMRgAIAAoADC1wJ+trDM4m9fV1JAzQJvX1dSQM0ocK212bmVPQjVNVWdYNU02RUNzYU1qL1NOYkVZPVofIh3eaW80S2g0QUMyMnU2dk9LNmY2YWphUXpNdTZvPWUbuCpAwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNDgxNDc2ZDAtZTNhZS01NGY3LWFiMWUtODk2N2JjNzU2NThiGAAgACgAMNml6oyPMzjgqeqMjzNA4KnqjI8zShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDJjZGMzOTQzLTJkZjItNWFmZC05ZGVlLTJiNDkzODliY2NlMBgAIAAoADDfpeqMjzM4wKrqjI8zQMCq6oyPM0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}

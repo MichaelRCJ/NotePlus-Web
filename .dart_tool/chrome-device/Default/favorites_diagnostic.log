@@ -1,0 +1,27 @@
+2025-12-10 20:56:20.753: [INFO] VisibilityChanged: 0
+2025-12-10 20:56:20.870: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-12-10 20:56:20.872: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-12-10 20:56:20.874: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-12-10 20:56:20.875: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-12-10 20:56:20.877: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-12-10 20:56:20.879: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-12-10 20:56:20.880: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-12-10 20:56:20.883: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-12-10 20:56:20.885: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-12-10 20:56:20.886: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-12-10 20:56:20.888: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-12-10 20:56:20.901: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2025-12-10 20:56:20.901: [INFO] OnDoneLoading sync enabled: 0
+2025-12-10 20:56:21.010: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-12-10 20:56:21.868: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2025-12-10 20:56:21.890: [INFO] Primary account changed.
+2025-12-10 20:56:21.890: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2025-12-10 20:56:21.901: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2025-12-10 20:56:23.512: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2025-12-10 20:56:30.334: [INFO] VisibilityChanged: 1
+2025-12-10 20:56:30.773: [INFO] BookmarkNodeAdded, ABU: 0
+2025-12-10 20:56:30.773: [INFO] BookmarkNodeAdded, ABU: 0
+2025-12-10 20:56:30.773: [INFO] BookmarkNodeAdded, ABU: 0
+2025-12-10 20:56:30.774: [INFO] BookmarkNodeAdded, ABU: 0
+2025-12-10 20:56:37.398: [INFO] Sync initialization duration: 12965ms
+2025-12-10 20:59:58.266: [INFO] VisibilityChanged: 0
